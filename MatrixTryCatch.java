@@ -75,7 +75,7 @@ public class MatrixTryCatch {
 				}
 				break;
 		 case 4:
-			 System.out.println("U choosen Multiplication of two matrix--------result matrix is --");
+			 System.out.println("U choosen Multiplication of two matrix--------result matrix is");
 				for(int i=0;i<2;i++)
 					{
 			 		for(int j=0;j<2;j++)
