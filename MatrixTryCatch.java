@@ -18,7 +18,7 @@ public class MatrixTryCatch {
 		System.out.println("U have entered "+r+"rows, "+c+" columns for matrix operations " );
 		System.out.println("please enter 1. addition  2. subtraction  3. Square  4.Multiplication "); 
 		int n = sc.nextInt();
-		System.out.println("Enter values for matrix1 & matrix 2 ");
+		System.out.println("Enter the values for matrix1 & matrix 2 ");
 		mat1=new int[r][c];
 		mat2=new int[r][c];
 		
@@ -64,7 +64,7 @@ public class MatrixTryCatch {
 			 		}
 				}
 				break;
-		 case 3:System.out.println("U choosen square of two matrix--------result matrix is --");
+		 case 3:System.out.println("U choosen square of two matrix--------result matrix is");
 				for(int i=0;i<2;i++)
 					{
 			 		for(int j=0;j<2;j++)
